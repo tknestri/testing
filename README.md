@@ -1,8 +1,7 @@
 # testing
 
 welcome to rabbidStats:
-to use this software you will need python3.8 installed
-in a terminal, activate the included virtual environment via "source ./venv/bin/activate"
+to use this software you will need python3.8 installed, along with the python libraries listed in REQUIREMENTS.txt.
 
 then you may run any of the widgets listed in fin/ui/widgets.
 additional data sourced may be added in fin/in/pp, additionally  widgets can be quickly integrated via QT Designer
