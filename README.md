@@ -12,4 +12,8 @@ In short:
   pp - Web scraping scripts, used to aggregate widgets 
 
 Note:
-  .ui files are made to be opened with QT Designer 
+  .ui files were generated with QT Designer 
+
+TODO:
+- "main window" layout with panes
+- 
